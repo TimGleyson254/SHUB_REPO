@@ -1,7 +1,7 @@
 {
   "swagger" : "2.0",
   "info" : {
-    "description" : "The API for the EatBacon IOT project magnus",
+    "description" : "The API for the EatBacon IOT project totta",
     "version" : "1.0.0",
     "title" : "home-iot-api"
   },
